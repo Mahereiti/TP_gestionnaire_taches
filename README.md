@@ -22,10 +22,13 @@ thème de peu.
 ## Installation et lancement
 
 1. Cloner le projet
+
 git clone https://github.com/Mahereiti/TP_gestionnaire_taches.git
 
-2. Installer les dépendances
+3. Installer les dépendances
+
 npm install
 
-3. Lancer le serveur
+5. Lancer le serveur
+
 npm run dev
